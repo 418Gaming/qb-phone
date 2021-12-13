@@ -178,9 +178,9 @@ Config.StoreApps = {
         style = "";
         job = false,
         blockedjobs = {},
-        slot = 15,
+        slot = 17,
         Alerts = 0,
-        password = true,
+        password = false,
         creator = "QBCore",
         title = "Territory",
     },
